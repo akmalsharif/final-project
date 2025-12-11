@@ -3,3 +3,7 @@
 Anggota Kelompok:
 1. Akmal Sharif Ramdhan 5052231034
 2. Gregorio Vianney
+
+
+Cara Menggunakannya:
+pip install -r requirements.txt di dalam bash
